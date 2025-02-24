@@ -16,4 +16,4 @@ Made With:
 
 Unity: To build the game.
 C# Scripting: For game logic and sound management.
-Please checkout the Entrypage and Rules image.
+The first 5 notes that are played in the video are played by the system ,then we have to play it it in the same sequence.
